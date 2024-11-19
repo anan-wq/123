@@ -1,0 +1,9 @@
+2024-11-18 19:15:09,048 WARN [restartedMain] s.d.s.w.r.p.ParameterDataTypeReader [ParameterDataTypeReader.java : 92] Trying to infer dataType java.lang.Long[]
+2024-11-18 19:42:28,354 WARN [restartedMain] o.a.tomcat.util.modeler.Registry [DirectJDKLog.java : 173] The MBean registry cannot be disabled because it has already been initialised
+2024-11-18 19:42:32,334 WARN [restartedMain] s.d.s.w.r.p.ParameterDataTypeReader [ParameterDataTypeReader.java : 92] Trying to infer dataType java.lang.Long[]
+2024-11-18 19:42:42,586 WARN [restartedMain] o.a.tomcat.util.modeler.Registry [DirectJDKLog.java : 173] The MBean registry cannot be disabled because it has already been initialised
+2024-11-18 19:42:46,041 WARN [restartedMain] s.d.s.w.r.p.ParameterDataTypeReader [ParameterDataTypeReader.java : 92] Trying to infer dataType java.lang.Long[]
+2024-11-18 19:43:08,359 WARN [restartedMain] o.a.tomcat.util.modeler.Registry [DirectJDKLog.java : 173] The MBean registry cannot be disabled because it has already been initialised
+2024-11-18 19:43:11,481 WARN [restartedMain] s.d.s.w.r.p.ParameterDataTypeReader [ParameterDataTypeReader.java : 92] Trying to infer dataType java.lang.Long[]
+2024-11-18 19:43:31,805 WARN [restartedMain] o.a.tomcat.util.modeler.Registry [DirectJDKLog.java : 173] The MBean registry cannot be disabled because it has already been initialised
+2024-11-18 19:43:34,780 WARN [restartedMain] s.d.s.w.r.p.ParameterDataTypeReader [ParameterDataTypeReader.java : 92] Trying to infer dataType java.lang.Long[]
